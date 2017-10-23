@@ -27,12 +27,3 @@ First, download images to `data/celebA`:
 Second, train the GAN:
 
     $ python main.py
-
-## Result on celebA
-
-
-<a href="http://tensorlayer.readthedocs.io">
-<div align="center">
-	<img src="img/result.png" width="90%" height="90%"/>
-</div>
-</a>
