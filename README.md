@@ -26,4 +26,4 @@ First, download images to `data/celebA`:
 
 Second, train the GAN:
 
-    $ python main.py
+    $ python train_compression.py
