@@ -1,5 +1,5 @@
 
-## our experiments with image compression technique with added stabilization by added optimization using generative adversatial network.
+## Our experiments with image compression with added stabilization by intergrating with a generative adversarial network.
 
 ## Architecture
 
