@@ -1,7 +1,5 @@
 
-# Readme to be updated ! 
-
-
+## our experiments with image compression technique with added stabilization by added optimization using generative adversatial network.
 
 ## Architecture
 
