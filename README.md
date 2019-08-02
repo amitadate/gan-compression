@@ -14,9 +14,9 @@
 
 ## Usage
 
-First, download images to `data/celebA`:
+First, download images to `data/mnist`:
 
-    $ python download.py celebA		[202599 face images]
+    $ python download.py mnist		[202599 face images]
 
 Second, train the GAN:
 
